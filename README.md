@@ -36,3 +36,21 @@ python app.py
 ### ATS Analysis
 
 ![ATS](screenshots/ats.png)
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### ATS Score
+
+![ATS Score](screenshots/ats-score.png)
+
+
+### AI Suggestions
+
+![AI Suggestions](screenshots/ai-suggestions.png)
+
+### Resume Ranking
+
+![Candiadte Portal](screenshots/candidate portal.png)
