@@ -29,9 +29,7 @@ pip install -r requirements.txt
 python app.py
 ## Screenshots
 
-### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
 
 ### ATS Analysis
 
@@ -49,8 +47,8 @@ python app.py
 
 ### AI Suggestions
 
-![AI Suggestions](screenshots/ai-suggestions.png)
+![AI Suggestions](screenshots/ai suggestions.png)
 
 ### Resume Ranking
 
-![Candiadte Portal](screenshots/candidate portal.png)
+![Candiadte Portal](screenshots/candidate potal.png)
