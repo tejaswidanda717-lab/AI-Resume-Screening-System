@@ -27,3 +27,12 @@ AI-powered Resume Screening and ATS Analysis System using Python and Flask.
 ```bash
 pip install -r requirements.txt
 python app.py
+## Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### ATS Analysis
+
+![ATS](screenshots/ats.png)
